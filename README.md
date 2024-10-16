@@ -6,12 +6,10 @@ This project is assessed against [AS91906](https://www.nzqa.govt.nz/nqfdocs/ncea
 
 ## Project Description
 
-The project involves the programming of a game.
+The project involves the programming of a game. 
 
-BRIEF PROJECT DESCRIPTION HERE
-BRIEF PROJECT DESCRIPTION HERE
-BRIEF PROJECT DESCRIPTION HERE
-BRIEF PROJECT DESCRIPTION HERE
+This game is a pick a path type game where you choose to either go north, south, east or west with each choice having an impact as well as having a lines of text telling the player what is in the room. the aim of the game is to find the exit escape the burning building which will be deteremind by an in-game timer of 2 two minutes and 30 seconds
+
 
 
 ## Source Code
